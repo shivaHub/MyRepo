@@ -1,0 +1,1 @@
+There are real-time files application receives and application read these files
